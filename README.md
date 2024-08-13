@@ -35,5 +35,3 @@ python sample_app.py
 VGG16 > Cat & Dog >>> visit http://ip:port/static/predict.html
 
 MobileNet >>>> visit http://ip:port/static/mobilenet.html
-
-I've restructured and added few methods to meet the requirements that suited my needs.

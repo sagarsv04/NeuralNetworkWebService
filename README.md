@@ -36,9 +36,4 @@ VGG16 > Cat & Dog >>> visit http://ip:port/static/predict.html
 
 MobileNet >>>> visit http://ip:port/static/mobilenet.html
 
-
-Credits
-============
-Credits to [deeplizard](https://github.com/deeplizard)
-
 I've restructured and added few methods to meet the requirements that suited my needs.
